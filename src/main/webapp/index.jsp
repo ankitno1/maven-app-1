@@ -69,8 +69,8 @@
     <div class="container">
         <div class="content">
             <h1Hello ... ! <span class="name">Cloud Enthusiast !</span></h1>
-            <p>My name is <span class="highlighted-name">ankit jain</span>, I am an <span class="trainer">AWS and DevOps Trainer</span>.</p>
-            <p class="curriculum"><em>My Recommended curriculum to become a DevOps Engineer:</em></p>
+            <p>My name is <span class="highlighted-name">ankit jain</span>, I am an <span class="trainer">AWS and DevOps learner</span>.</p>
+            <p class="curriculum"><emthis is version 2</em></p>
           
 </body>
 </html>
